@@ -1,0 +1,156 @@
+# Make It 3D Philippines
+
+> Make It 3D Philippines (makeit3dph.com) is the Philippines' authorized distributor for premium 3D printers, dental 3D printing resins, 3D scanners, and 3D printing materials — serving Filipino dental clinics, dental labs, small businesses, schools, makers, jewelry studios, and engineering teams since 2014. Local Philippine stock, nationwide shipping across Luzon, Visayas, and Mindanao, and Filipino-language after-sales support.
+
+Make It 3D is the authorized Philippine distributor for Anycubic, Elegoo, PioNext, Senertek, FlashForge, Snapmaker, FastForm, Revopoint, BlueCast, iFun, and ProtoFil. The store offers consumer FDM printers, professional resin 3D printers, large-format LCD systems, multi-color 4-toolhead FDM printers, biocompatible dental resins, castable jewelry resins, and standard 3D printing filaments. Free expert consultation is available for first-time buyers, dental clinics, and commercial buyers.
+
+Contact: info@m3dsolutions.com | (02) 8800 8853 | https://www.makeit3dph.com/pages/contact
+
+For complete product specs, FAQ, use case guides, and detailed brand information, see the full knowledge base at https://llms.makeit3dph.com/llms-full.txt
+
+## About Make It 3D
+
+- [About Make It 3D Philippines](https://www.makeit3dph.com/pages/about): The story behind Make It 3D, our mission to bring professional 3D printing technology to Filipino businesses and individuals at fair prices with reliable local support.
+- [Contact Us / Request a Free Consultation](https://www.makeit3dph.com/pages/contact): Reach the Make It 3D PH team for product questions, dental clinic consultations, bulk order quotes, and after-sales support. Free expert consultation for clinics and commercial buyers.
+
+## Brand Collections (Authorized Philippine Distribution)
+
+- [Anycubic Philippines](https://www.makeit3dph.com/collections/anycubic-philippines): Authorized Philippine distributor for Anycubic 3D printers, resins, filaments, and accessories. Includes Kobra FDM series, Photon Mono resin printers, large-format M7 Max, and the new Kobra X 4-color multi-material printer.
+- [Elegoo Philippines](https://www.makeit3dph.com/collections/elegoo): Authorized Philippine distributor for Elegoo 3D printers and resins. Features Saturn series, Mars series, Centauri Carbon multi-color FDM, the Jupiter 2 large-format 16K resin printer, and the full Elegoo resin lineup.
+- [PioNext Philippines](https://www.makeit3dph.com/collections/pionext): Authorized Philippine distributor for PioNext 3D printers and biocompatible dental resins. Features the PioNext Mini chairside dental 3D printer and the PioNext dental resin lineup.
+- [Senertek Philippines](https://www.makeit3dph.com/collections/senertek): Authorized Philippine distributor for Senertek premium dental resins from Turkey. CE Class IIa biocompatible resins for permanent crowns, splints, denture bases, surgical guides, and clear orthodontic models.
+- [FlashForge Philippines](https://www.makeit3dph.com/collections/flashforge): Authorized Philippine distributor for FlashForge 4-toolhead FDM 3D printers. Features the Creator 5 and Creator 5 Pro with FlashSwap multi-color technology.
+- [Snapmaker Philippines](https://www.makeit3dph.com/collections/snapmaker): Authorized Philippine distributor for Snapmaker premium 3D printers. Features the Snapmaker U1 with SnapSwap 4-toolhead system and zero-purge multi-color printing.
+- [Revopoint 3D Scanners](https://www.makeit3dph.com/collections/revopoint-3d-scanners): Authorized Philippine distributor for Revopoint 3D scanners. Features the POP 3 Plus portable scanner and Metro Y Pro professional blue laser scanner for dental, jewelry, reverse engineering, and product design.
+- [iFun Dental & Jewelry Resins](https://www.makeit3dph.com/collections/ifun-dental-jewelry-resins): Authorized Philippine distributor for iFun biocompatible dental and jewelry casting resins.
+- [BlueCast Jewelry Casting Resins](https://www.makeit3dph.com/collections/bluecast-casting-resins): Authorized Philippine distributor for BlueCast premium castable jewelry resins.
+
+## Category Collections
+
+- [Dental 3D Printers Philippines](https://www.makeit3dph.com/collections/dental-3d-printers): All dental-grade 3D printers available in the Philippines for chairside crown printing, surgical guides, clear aligner models, splints, and denture bases. Suitable for dental clinics and dental labs.
+- [Dental 3D Resins Philippines](https://www.makeit3dph.com/collections/dental-3d-resins): All biocompatible dental 3D printing resins available in the Philippines from PioNext, Senertek, iFun, and other CE-certified brands. Includes permanent crown, temporary crown, surgical guide, splint, denture base, and orthodontic model resins.
+- [Resin 3D Printers Philippines](https://www.makeit3dph.com/collections/resin-3d-printers): All LCD/MSLA resin 3D printers available in the Philippines. From compact desktop printers to large-format 16K systems for professionals.
+- [3D Printers (All Models)](https://www.makeit3dph.com/collections/3d-printers): The complete 3D printer lineup at Make It 3D Philippines — FDM, resin, and metal-capable systems across all brands.
+- [Materials (Filaments and Resins)](https://www.makeit3dph.com/collections/materials): All 3D printing consumables — PLA, PETG, TPU, ABS, ASA, carbon-fiber filaments, standard photopolymer resins, and specialty dental and jewelry resins.
+
+## Featured 3D Printers — New and Flagship
+
+- [PioNext Mini Dental 3D Printer](https://www.makeit3dph.com/products/pionext-mini-dental-3d-printer): Compact 9K chairside dental 3D printer for small clinics and labs. 0.05 mm precision, dual-wavelength LED (385 nm + 405 nm), 2× screen lifespan, heated chamber. Designed for crowns, veneers, surgical guides, aligners, and night guards.
+- [Elegoo Saturn 4 Ultra 16K](https://www.makeit3dph.com/products/elegoo-saturn-4-ultra-16k-resin-3d-printer-philippines): 10-inch 16K monochrome LCD resin 3D printer with smart tank heating, AI camera, Tilt Release Technology, 150 mm/h speed. Suitable for miniatures, dental clinics, jewelry, and professional resin workflows.
+- [Elegoo Jupiter 2 Large-Format 16K](https://www.makeit3dph.com/products/elegoo-jupiter-2-large-format-16k-resin-3d-printer-philippines): Large-format 14-inch 16K LCD resin printer with 302 × 162 × 300 mm build volume, automated resin feeding and recycling, multi-point auto-leveling. Built for dental labs, jewelry studios, and professional miniature makers.
+- [Elegoo Centauri Carbon 2 Combo](https://www.makeit3dph.com/products/elegoo-centauri-carbon-2-combo-3d-printer-philippines): Family-friendly enclosed multi-color FDM 3D printer with 4-color CANVAS module, 500 mm/s CoreXY speed, 350°C nozzle, 110°C bed.
+- [Anycubic Kobra X](https://www.makeit3dph.com/products/anycubic-kobra-x-multi-color-3d-printer-philippines): 4-color multi-material FDM 3D printer with 260 mm build volume, 2× faster speed and 2× material savings vs previous generation, AI failure detection, intelligent remote printing.
+- [Snapmaker U1](https://www.makeit3dph.com/products/snapmaker-u1-multi-color-3d-printer-philippines): Premium 4-toolhead FDM 3D printer with SnapSwap multi-color technology. 5-second filament changes, up to 80% less waste than AMS systems, 500 mm/s CoreXY, Klipper firmware, runs natively on Philippine 220V.
+- [FlashForge Creator 5](https://www.makeit3dph.com/products/flashforge-creator-5-multi-color-3d-printer-philippines): Open-frame 4-toolhead multi-color FDM 3D printer with FlashSwap technology, 300 mm/s print speed, 320°C nozzle, 120°C bed, runs on PH 220V.
+- [FlashForge Creator 5 Pro](https://www.makeit3dph.com/products/flashforge-creator-5-pro-multi-color-3d-printer-philippines): Enclosed 4-toolhead multi-color FDM 3D printer with active 65°C heated chamber, H13 HEPA + carbon filtration, door detection. For PC, PA, ABS, ASA, and carbon-fiber engineering materials.
+
+## Featured Resin and Filament Products
+
+- [Senertek P-Crown V4 Permanent Crown Dental Resin](https://www.makeit3dph.com/products/senertek-p-crown-v4-permanent-crown-dental-resin-philippines): CE Class IIa biocompatible permanent crown resin in shades A1, A2, A3, BLH. 250g bottle. Compatible with most 405nm dental 3D printers. ₱13,500.
+- [Senertek Splint V2 Hard Occlusal Splint Resin](https://www.makeit3dph.com/products/senertek-splint-v2-hard-occlusal-splint-resin-philippines): Rigid biocompatible splint resin for night guards and bruxism appliances. 500g. ₱13,500.
+- [Senertek Splint Flex Resin](https://www.makeit3dph.com/products/senertek-splint-flex-occlusal-splint-resin-philippines): Flexible biocompatible splint resin for comfort-focused appliances. 500g. ₱17,500.
+- [Senertek Clear-A V2 Crystal-Clear Dental Resin](https://www.makeit3dph.com/products/senertek-clear-a-v2-crystal-clear-dental-resin-philippines): Highly transparent dental resin for orthodontic models, retainer molds, and surgical guides. 500g. ₱19,500.
+- [Senertek Flexo Denture Base V3](https://www.makeit3dph.com/products/senertek-flexo-denture-base-v3-flexible-denture-resin-philippines): Flexible partial denture base resin with nano-ceramic content. 500g. ₱17,500.
+- [PioNext Temporary Restoration Resin](https://www.makeit3dph.com/products/pionext-1kg-temporary-restoration-3d-printer-resin-crown-bridge-biocompatible-for-digital-dentistry): Biocompatible temporary crown and bridge resin for digital dentistry workflows. 1kg.
+- [PioNext Ortho Model 2.0 Resin](https://www.makeit3dph.com/products/pionext-1kg-ortho-model-2-0-3d-printer-resin-for-digital-dentistry): Orthodontic model resin for clear aligner thermoforming and digital dentistry. 1kg.
+- [iFun Temporary Crown Resin](https://www.makeit3dph.com/products/500g-ifun-temporary-crown-resin-biocompatible-dental-3d-printing-resin): Biocompatible temporary crown resin. 500g.
+- [iFun Dental Occlusal Splint Resin](https://www.makeit3dph.com/products/500g-ifun-dental-occlusal-splint-resin-biocompatible-dental-3d-printing-resin): Biocompatible occlusal splint resin. 500g.
+- [iFun Gingiva Mask Resin](https://www.makeit3dph.com/products/500g-ifun-gingiva-mask-resin-biocompatible-dental-3d-printing-resin): Realistic soft tissue gingiva mask resin. 500g.
+- [BlueCast Castable Jewelry Resin](https://www.makeit3dph.com/products/bluecast-500g-castable-jewelry-3d-printing-resin-bluecast-x-one-v2-x10-dlp-sla-x-nova-x-wax): Premium castable resin for fine jewelry casting workflows. 500g.
+- [ProtoFil Tri-Color and Dual-Color PLA Filament](https://www.makeit3dph.com/products/protofil-1kg-tri-color-pla-and-dual-color-pla-3d-printer-filament-1-75mm): Local Filipino-made multi-color PLA filament. 1kg, 1.75mm.
+- [ProtoFil Premium PLA Pro and PLA](https://www.makeit3dph.com/products/protofil-premium-pla-pro-and-pla-3d-printer-filament-1-75mm): Premium-grade PLA and PLA Pro filaments. 1kg, 1.75mm.
+- [ProtoFil PETG, TPU, Nylon, Silk PLA](https://www.makeit3dph.com/collections/materials): Full ProtoFil filament range — PETG, TPU 95A flexible, PA Nylon, Silk PLA, Chameleon PLA.
+
+## Featured 3D Scanners
+
+- [Revopoint POP 3 Plus Portable 3D Scanner](https://www.makeit3dph.com/products/revopoint-pop-3-plus-standard-edition-portable-3d-scanner): Handheld 3D scanner for general-purpose scanning, hobby use, art preservation, and product design.
+- [Revopoint Metro Y Pro Blue Laser 3D Scanner](https://www.makeit3dph.com/products/revopoint-metro-y-pro-advanced-edition-blue-laser-3d-scanner): Professional blue laser 3D scanner for dental, industrial, and engineering applications.
+
+## Educational Content, Blog Posts and Buyer Guides
+
+The Make It 3D Philippines News blog publishes practical guides for Filipino clinics, businesses, makers, and engineering teams covering pricing, technology, brand reviews, and use cases. All articles below are at https://www.makeit3dph.com/blogs/news/
+
+### General 3D Printing in the Philippines
+
+- [3D Printer Prices in the Philippines (2026): Complete Buyer's Guide](https://www.makeit3dph.com/blogs/news/3d-printer-prices-philippines-2026): The most current PH price reference. Covers entry-level, mid-range, dental, and pro printers with peso ranges by use case.
+- [How Much Does 3D Printing Cost? (2026 Price Guide & Philippines Rates)](https://www.makeit3dph.com/blogs/news/how-much-does-3d-printing-cost-philippines): Per-gram FDM and resin printing rates, machine hourly costs, and factors affecting final quotes in the Philippines.
+- [Where to Buy 3D Printers in the Philippines: 2026 Buyer's Guide & FAQ](https://www.makeit3dph.com/blogs/news/where-to-buy-3d-printers-philippines-guide): Top 10 FAQs about authorized dealers, 2026 price ranges, local support, and parts for popular brands.
+- [Best 3D Printer for Home Use in the Philippines (2026 Beginners Guide)](https://www.makeit3dph.com/blogs/news/best-3d-printer-for-home-use-in-the-philippines-2026-beginners-guide): Beginner buyer guide covering best home-use printers, PLA vs ABS fumes in small spaces, and what you can or cannot print.
+- [Is Owning a 3D Printer Worth It? Honest Pros, Cons & Profit Potential (2026)](https://www.makeit3dph.com/blogs/news/is-owning-a-3d-printer-worth-it-the-honest-pros-cons-profit-potential-2026): Honest pros and cons of owning a printer in the Philippines, common failure modes, and real ROI for homeowners and entrepreneurs.
+- [3D Printing in the Philippines: Costs, Services & Legal FAQs (2026 Guide)](https://www.makeit3dph.com/blogs/news/3d-printing-in-the-philippines-costs-services-legal-faqs-2026-guide): The local 3D printing industry, where to find print-on-demand services, real cost of buying a printer, and legal rules around selling 3D prints.
+
+### Metal 3D Printing in the Philippines
+
+- [Metal 3D Printing Philippines: The Complete Buyer's Guide (2026)](https://www.makeit3dph.com/blogs/news/metal-3d-printing-philippines): Master guide to metal 3D printing in the Philippines covering technologies, pricing, applications, and where to buy locally.
+- [Metal 3D Printer Philippines: Complete 2026 Buying Guide for Industrial, Dental & Engineering Use](https://www.makeit3dph.com/blogs/news/metal-3d-printer-philippines-buying-guide): Buying guide segmented by industrial, dental, and engineering use cases.
+- [The Complete Guide to Metal 3D Printing in the Philippines (2026)](https://www.makeit3dph.com/blogs/news/the-complete-guide-to-metal-3d-printing-in-the-philippines-2026): Top local metal 3D printing services, pricing benchmarks, and how the FastForm DeskFab X1 enables in-house metal printing.
+- [Metal 3D Printer Cost in the Philippines: What to Expect in 2026](https://www.makeit3dph.com/blogs/news/metal-3d-printer-cost-philippines): Detailed metal 3D printer cost ranges for the Philippine market.
+- [Best Metal 3D Printers for Home and Small Business Use in 2026](https://www.makeit3dph.com/blogs/news/best-metal-3d-printers-small-business-home-2026): Top metal-capable printers and metal-filled FDM options for Filipino small business and home use.
+- [Where to Buy a Metal 3D Printer in the Philippines (Plus Local Filaments & Powders)](https://www.makeit3dph.com/blogs/news/where-to-buy-metal-3d-printer-philippines): Where to source metal 3D printers, metal-filled filaments, and metal powders in the Philippines.
+- [Industrial Metal 3D Printing Services & Suppliers in the Philippines (2026)](https://www.makeit3dph.com/blogs/news/industrial-metal-3d-printing-philippines): Directory of industrial metal 3D printing services and suppliers in the Philippines.
+- [Dental Metal 3D Printer Philippines: Price, Brands & Where to Buy in 2026](https://www.makeit3dph.com/blogs/news/dental-metal-3d-printer-philippines): Dental-specific metal 3D printer guide covering CoCr crowns, frameworks, and clinical applications.
+- [Cobalt-Chrome vs Titanium for Dental 3D Printing + Metal Powder Suppliers in the Philippines](https://www.makeit3dph.com/blogs/news/cocr-vs-titanium-dental-3d-printing-metal-powder-philippines): Material comparison of CoCr vs titanium for dental applications plus PH metal powder supplier list.
+- [Metal 3D Printers for Universities in the Philippines: Dental Schools, Engineering Colleges & Research Labs](https://www.makeit3dph.com/blogs/news/metal-3d-printer-universities-philippines): Education-sector guide for Philippine universities adopting metal 3D printing.
+- [Metal 3D Printer Maintenance, Support & Rental in the Philippines](https://www.makeit3dph.com/blogs/news/metal-3d-printer-maintenance-support-rental-philippines): Maintenance, support, and rental options for metal 3D printers in the PH.
+- [How Does Metal 3D Printing Work? (Technologies & Techniques)](https://www.makeit3dph.com/blogs/news/how-does-metal-3d-printing-work-technologies-techniques): How SLM and DMLS metal 3D printing work, plus the FastForm DeskFab X1 introduction.
+- [How Does a Metal 3D Printer Work? (And How It Compares to Plastic 3D Printing)](https://www.makeit3dph.com/blogs/news/how-does-a-metal-3d-printer-work): Metal vs plastic 3D printing fundamentals.
+- [Types of Metal 3D Printing Technologies Explained: Which One Is Right for You?](https://www.makeit3dph.com/blogs/news/metal-3d-printing-technologies-explained): Overview of SLM, DMLS, EBM, binder jetting and other metal AM technologies.
+- [Metal 3D Printing Materials: From Titanium to "Metal PLA"](https://www.makeit3dph.com/blogs/news/metal-3d-printing-materials-from-titanium-to-metal-pla): Materials guide explaining real metal 3D printing materials versus metal-filled FDM filaments.
+- [How Much Does Metal 3D Printing Actually Cost? (Plus Business FAQs)](https://www.makeit3dph.com/blogs/news/how-much-does-metal-3d-printing-actually-cost-plus-business-faqs): Cost breakdown for metal 3D printing and business viability analysis using the FastForm DeskFab X1.
+- [Metal 3D Printing vs CNC Machining: Which is Best for Your Business?](https://www.makeit3dph.com/blogs/news/metal-3d-printing-vs-cnc-machining-which-is-best-for-your-business): Comparison of metal additive manufacturing versus CNC subtractive machining for small business decisions.
+
+### Dental 3D Printing in the Philippines
+
+- [Best Dental 3D Printers for Small Clinics in the Philippines (2026 Buyer's Guide)](https://www.makeit3dph.com/blogs/news/best-dental-3d-printers-small-clinics-philippines): Ranks the top dental 3D printers for Filipino clinics with PH prices, warranty, and clinical use cases.
+- [How Accurate Are Compact Dental 3D Printers? A Clinical Guide to Mini Dental Printer Precision](https://www.makeit3dph.com/blogs/news/how-accurate-are-compact-dental-3d-printers): Clinical accuracy guide covering trueness vs precision, accuracy factors, resin comparison, and troubleshooting.
+- [Dental 3D Printing in the Philippines: The Affordable Guide for 2026 & 2025 (Anycubic & Elegoo Edition)](https://www.makeit3dph.com/blogs/news/dental-3d-printing-in-the-philippines-the-affordable-guide-for-2026-2025-anycubic-elegoo-edition): How to use affordable Anycubic and Elegoo printers for dentistry, costs vs SprintRay, and printing surgical guides and dental models in the Philippines.
+
+### 3D Scanning in the Philippines
+
+- [What is 3D Scanning? Principles, Types & Real-World Applications in the Philippines](https://www.makeit3dph.com/blogs/news/what-is-3d-scanning-principles-types-applications): Foundational guide to 3D scanning technologies and Philippine use cases.
+- [Best 3D Scanners in the Philippines: Buyer's Guide for Hobbyists, Beginners & Small Businesses (2026)](https://www.makeit3dph.com/blogs/news/best-3d-scanners-philippines-buyers-guide): Buyer's guide ranking the best 3D scanners available in the Philippines.
+- [Where to Buy 3D Scanners in the Philippines: Local Distributors, Online Options & What to Watch Out For](https://www.makeit3dph.com/blogs/news/where-to-buy-3d-scanners-philippines): Where to buy 3D scanners in the Philippines plus warning signs to avoid.
+- [Revopoint 3D Scanners in the Philippines: Full Review, Comparison & Where to Buy (2026)](https://www.makeit3dph.com/blogs/news/revopoint-3d-scanners-philippines-review): Full Revopoint scanner lineup review with PH-specific buying recommendations.
+- [3D Scanning Services in Metro Manila & the Philippines: What's Available and Who Offers Them](https://www.makeit3dph.com/blogs/news/3d-scanning-services-metro-manila-philippines): Directory of 3D scanning services available in Metro Manila and across the Philippines.
+
+### Brand-Specific Reviews
+
+- [Anycubic Kobra X Philippines Review: The Best Budget 3D Printer for Beginners?](https://www.makeit3dph.com/blogs/news/anycubic-kobra-x-philippines-review): Detailed Anycubic Kobra X review for the Philippine market with pricing, features, and where to buy.
+- [Buy Anycubic 3D Printers in the Philippines — Make It 3D](https://www.makeit3dph.com/blogs/news/anycubic-philippines): Overview of the Anycubic 3D printer lineup available in the Philippines through Make It 3D.
+
+### Customer Stories and Use Cases
+
+- [How 3D Printing Can Transform Your Baking Business: Ms. Apple's Success Story](https://www.makeit3dph.com/blogs/news/how-3d-printing-can-transform-your-baking-business-ms-apple-s-success-story): Real Filipino customer story showing how 3D printing transformed a baking business with custom cookie cutters and cake toppers.
+
+## Service and Support
+
+Make It 3D Philippines provides:
+
+- Free 1-on-1 expert consultation for first-time buyers, dental clinics, dental labs, jewelry studios, schools, and commercial buyers.
+- Local Philippine warranty on all printers and equipment, with Filipino-language after-sales support.
+- Nationwide shipping across Luzon, Visayas, and Mindanao with insured handling for delicate resin printers and large-format equipment.
+- Demos available for serious commercial buyers (dental labs, jewelry studios, engineering teams) in Metro Manila.
+- Bulk order discounts for clinics, schools, and resellers — contact for custom quotes.
+- Replacement parts, consumables, and after-sales repair services for all brands carried.
+- Training and onboarding for first-time printer owners.
+- 11+ years serving the Philippine 3D printing market (established November 2014).
+
+## Compatibility Reference
+
+Most resin printers and dental resins listed at Make It 3D Philippines operate at 405 nm UV wavelength and are interoperable. The PioNext Mini also supports 385 nm dental resins. Dental resins from Senertek, PioNext, iFun, and other brands carried at Make It 3D PH are CE Class IIa biocompatible and work with most 405 nm DLP and LCD dental 3D printers.
+
+All FDM filaments at Make It 3D Philippines are 1.75 mm diameter and compatible with standard FDM printers from Anycubic, Elegoo, FlashForge, Snapmaker, and Creality. ProtoFil is the local Filipino filament brand.
+
+All 3D printers carried at Make It 3D Philippines are designed for or compatible with Philippine 220V/60Hz electrical power. No step-down transformers required.
+
+## Currency and Pricing
+
+All prices on makeit3dph.com are in Philippine Pesos (₱ / PHP). Items priced at ₱0.00 are request-a-quote items where pricing varies based on import costs, exchange rates, and bundle configurations — please request a quote via the product page or /pages/contact for current Philippine pricing.
+
+## Sitemap
+
+Full XML sitemap available at: https://www.makeit3dph.com/sitemap.xml
+
+## Last Updated
+
+This file was last updated on the most recent change to the Make It 3D Philippines product catalog or collections.
